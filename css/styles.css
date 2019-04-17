@@ -1,0 +1,29 @@
+
+h1{ font-size: 40pt;
+    color: green; 
+    font-family: "Helvetica"
+
+}
+
+h2 { font-size: 35pt;
+    color: red;
+    font-family: "Gothic"
+
+}
+
+h3 {font-size: 30pt;
+    color: Purple;
+    font-family: "Gothic"
+
+}
+
+p { font-size: 30pt;
+    color: black;
+    font-family: "Georgia"
+
+}
+
+img{
+    width: 100%;
+
+}
